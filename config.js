@@ -1,11 +1,3 @@
-
-/*
-𝐀𝐮𝐭𝐡𝐨𝐫 : Shirokami Ryzen 
-𝐖𝐚 : +6281387307198
-𝐛𝐚𝐬𝐞 : Narutomo & Elaina
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Nov 2022
-*/
-
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -46,56 +38,56 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281387307198', 'Ryzn', true]
+['6285157024040', 'Restu Ganteng', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6281387307198'
-global.nomorown1 = '6281387307198'
-global.nomorown2 = '6281387307198'
+global.nomorbot = '62859106981262'
+global.nomorown = '085157024040'
+global.nomorown1 = '085157024040'
+global.nomorown2 = '085157024040'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Ryzn'
-global.namebot = '​ NaoBotz'
-global.wm = '© NaoBotz By Ryzn'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'Ryzn '
+global.author = 'Restu Ganteng'
+global.namebot = '  SagiriBot'
+global.wm = '© SagiriBot By Restu Ganteng'
+global.media = 'https://telegra.ph/file/920176bed509df747a9ee.jpg'
+global.wm = 'Restu Ganteng '
 global.watermark = wm
-global.wm2 = 'Ryzn '
+global.wm2 = 'Restu Ganteng '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `NaoBotz`
-global.stickpack = 'NaoBotz'
-global.stickauth = `© Ryzn`
+global.titlebot = `SagiriBot`
+global.stickpack = 'SagiriBot'
+global.stickauth = `© Restu Ganteng`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'Restu Ganteng'
+global.nameown2 = 'Restu Ganteng'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
+global.sig = 'https://www.instagram.com/puan.tex'
+global.sgh = 'https://github.com/Kocheng1337' //github
 global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UC5z1Xp6vQGU038B1RbMC3Gg'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 8730 7198'
+global.pdana = '085157024040'
 global.povo = '-'
-global.pgopay = '0813 8730 7198'
+global.pgopay = '085157024040'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 8730 7198'
-global.ppulsa2 = '0813 8730 7198'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
@@ -267,7 +259,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.premnsfw = false // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
 global.giflogo = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
@@ -307,7 +299,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = 'INSTAGRAM'
 global.urlnya = "https://www.instagram.com/ryzen_vermillion"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '085157024040'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
