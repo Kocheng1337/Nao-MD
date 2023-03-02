@@ -43,16 +43,16 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: "Hallo " + name,
 					mediaUrl: sgc,
-					description: 'Nao-Botz',
+					description: 'Sagiri Bot',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pp)).buffer(),
-					sourceUrl: "https://github.com/ShirokamiRyzen",					
+					sourceUrl: "https://github.com/Kocheng1337",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            title: 'Nao-Botz',
+            title: 'Sagiri Bot',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -65,7 +65,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6285157024040-1625305606@g.us" } : {}) 
                        },
             message: { 
                "audioMessage": {
@@ -80,7 +80,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6285157024040-1625305606@g.us" } : {}) 
                        },
             message: { 
                "extendedTextMessage": {
@@ -151,7 +151,7 @@ handler.all = async function (m) {
            },
            "message": {
                "groupInviteMessage": {
-                   "groupJid": "6282127487538-1625305606@g.us",
+                   "groupJid": "6285157024040-1625305606@g.us",
                    "inviteCode": "null",
                    "groupName": "Kawan WH MODS DEV", 
                    "caption": wm, 
@@ -164,7 +164,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6285157024040-1625305606@g.us" } : {}) 
                        },
             message: { 
                         "videoMessage": { 
